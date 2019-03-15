@@ -1,4 +1,4 @@
 # HDSI_Visualization
 ## Initial work by Yuan Gao
-* This project has benn posted by UC San Diego Halicioglu Data Science Institute on their <a href="http://datascience.ucsd.edu/news-and-events/news/Data-Science-Freshman_Word_Cloud.html">Website</a>
+* This project has benn posted by UC San Diego Halicioglu Data Science Institute on [UCSDNews](https://ucsdnews.ucsd.edu/pressrelease/data_science_freshman_makes_his_first_cloud)
 * And will be the pattern on HDSI's shirt
